@@ -1,11 +1,8 @@
-<p align="center"> 
- <img src="https://github.com/user-attachments/assets/1d98c957-2118-43b7-bbea-4752e6eee6bd">
- <br>
- "...jealousy's so overrated!..."
- </br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/57adb02a-51ca-4942-95c2-221888a087b8.gif" width="200" alt="Malleus Chibi">
+  <br>
+  <font color="#00d4ff"><b>🐉 "Hmph... parece que o sistema finalmente me aceitou."</b></font>
 </p>
-
-<hr>
 
 <div align="center">
   <h2>🚫 DNI </h2>
@@ -13,6 +10,7 @@
   
   <table>
     <tr>
+
       <td>
         • prejudiced (homophobic, racist, sexist, ped0s, etc.)<br>
         • weirdos<br>
