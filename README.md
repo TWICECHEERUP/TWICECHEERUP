@@ -22,3 +22,24 @@
     </tr>
   </table>
 </div>
+
+<div align="center">
+  <table style="border: 2px solid #00d4ff; border-radius: 10px;">
+    <tr>
+      <td bgcolor="#000000" style="padding: 20px;">
+        <h3 align="center"><font color="#00d4ff">STATUS GUIDE!</font></h3>
+        
+       
+            🟢 Online: I am active! c'mere and give me a boop or just cuddle 'n' hug >:3
+            
+            🟡 Away (AFK): Im probab. listening to music, but YES YOU CAN interact with me! 
+            
+            🔴 Busy: maybe im just in a bad humor or im talking to a friend, but yes we can C + H!! 
+            
+            💬 Searching for Chat: probab i just wanna chit-chat or smth, so come closer and lets talk! 
+            
+            🎭 Searching for Roleplay: searching for RPing (TWST only!) 
+          
+       
+  </table>
+</div>
