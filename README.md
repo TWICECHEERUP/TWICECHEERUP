@@ -43,3 +43,10 @@
     </tr>
   </table>
 </div>
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/5091e476-6410-447b-9e60-f9a83c27035f.png" width="150" align="right" style="margin-left: 15px;">
+  Aqui fica o seu texto descritivo. Note que a imagem está empurrada para a 
+  extremidade direita, permitindo que a leitura comece naturalmente pela esquerda.
+</p>
+<br clear="right" />
