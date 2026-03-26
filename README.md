@@ -50,7 +50,7 @@
 
 <p align="middle">
   <h1> Loading... Complete! </h1>
-  Heyy... I'm uhh I amm Kaleidokun and I like uhh
+  Heyy... I'm uhh I amm Kaleidokun and I like listening tmo music, writing poems and appreciating main details of life. Today is such a incredible day, because you've found me! I'm usually at TWST / Black Butler area so let's chat! "I hope you don't forget me". Please bear with me, as I have DID (dissociative identity disorder), ADHD (attention deficit hyperactivity disorder), ODD (oppositional defiant disorder) and GAD (generalized anxiety disorder). "I'm feeling lonely..." Music genre im often listening to: Kpop, Shittrap and uhhhh a bit of pop ig...
 </p>
 
 
