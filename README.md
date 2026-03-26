@@ -32,11 +32,11 @@
         <h3 align="center"><font color="#00d4ff">🖥️ STATUS GUIDE!</font></h3>
         <p align="left">
           <font color="#ffffff">
-            🟢 <b>Online:</b> I am active! c'mere and give me a boop or just cuddle 'n' hug >:3<br><br>
-            🟡 <b>Away (AFK):</b> I'm probab. listening to music, but YES YOU CAN interact with me!<br><br>
-            🔴 <b>Busy:</b> Maybe I'm just in a bad humor or I'm talking to a friend, but yes we can C + H!!<br><br>
-            💬 <b>Searching for Chat:</b> Probab I just wanna chit-chat or smth, so come closer and lets talk!<br><br>
-            🎭 <b>Searching for Roleplay:</b> Searching for RPing (TWST only!)
+            🟢 <b>:</b> I am active! c'mere and give me a boop or just cuddle 'n' hug >:3<br><br>
+            🌙 <b>:</b> I'm probab. listening to music, but YES YOU CAN interact with me!<br><br>
+            ⛔ <b>:</b> Maybe I'm just in a bad humor or I'm talking to a friend, but yes we can C + H!!<br><br>
+            💬 <b>:</b> Probab I just wanna chit-chat or smth, so come closer and lets talk!<br><br>
+            🎭 <b>:</b> Searching for RPing (TWST only!)
           </font>
         </p>
       </td>
