@@ -45,7 +45,12 @@
 </div>
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/5091e476-6410-447b-9e60-f9a83c27035f.png" width="150" align="right" style="margin-left: 15px;">
-  heh
+  <img src="https://github.com/user-attachments/assets/8f0296a6-0b72-4cb4-8b09-23008cf55e0f" width="500" align="right" style="margin-left: 15px;">
 </p>
-<br clear="right" />
+
+<p align="middle">
+  <h1> Loading... Complete! </h1>
+  Heyy... I'm uhh I amm Kaleidokun and I like uhh
+</p>
+
+
