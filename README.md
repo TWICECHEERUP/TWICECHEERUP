@@ -52,7 +52,7 @@
 
 <p align="middle">
   <h1> Loading... Complete! </h1>
-  Heyy... I'm uhh I amm Kaleido-kun and I like listening to music, writing poems and appreciating main details of life. Today is such a incredible day, because you've found me! I'm usually at TWST / Black Butler area so let's chat! "I hope you don't forget me". Please bear with me, as I have DID (dissociative identity disorder), ADHD (attention deficit hyperactivity disorder), ODD (oppositional defiant disorder) and GAD (generalized anxiety disorder). "I'm feeling lonely..." Music genre im often listening to: Kpop, Shittrap and uhhhh a bit of pop ig... Anyway! Im a kind of yumeshipper but i get embarassed when talking abt my ships so hmmmm yeah :3
+  Heyy... I'm uhh I amm Kaleido-kun and I like listening to music, writing poems and appreciating main details of life. Today is such a incredible day, because you've found me! I'm usually at TWST / Black Butler area so let's chat! "I hope you don't forget me". Please bear with me, as I have DID (dissociative identity disorder), ADHD (attention deficit hyperactivity disorder), ODD (oppositional defiant disorder) and GAD (generalized anxiety disorder). "I'm feeling lonely..." Music genre im often listening to: Kpop, Shittrap and uhhhh a bit of pop ig... Anyway! Im a kind of yumeshipper but i get embarassed when talking abt my ships so hmmmm yeah :3 ASADJSALKDJSAKLJDLKSAJ i can get randomly in a silly mood or just get very very embarassed out of nowhere. After all, its just me! What could i do??
 </p>
 
 
