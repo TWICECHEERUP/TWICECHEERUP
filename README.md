@@ -63,3 +63,8 @@ Big Idia Shroud enthusiast so if you have a problem, just don't interact.
   <summary>Forever pookies...?</summary>
   Lyn (@BriarPrince) ; Mayxy (@C-H-allowed-Ficktin) ; <b>"...maybe... there are more?"</b>
 </details>
+
+<details>
+  <summary>Notes!!</summary>
+  I can get very very very stressed but ill always try to be nice with you :3
+</details>
