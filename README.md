@@ -1,9 +1,11 @@
 <div align="center">
     <img width="100%" alt="tumblr_b6bbe4aa0578f0749539bfae80395ff9_57008c67_540" src="https://github.com/user-attachments/assets/278ccef1-fba7-4386-9f93-9de15726b738" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkaleidokun%2Fvisits&query=%24.value&label=omegas&color=blue&style=flat" alt="Visualizações">
     <br />
     <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&duration=3000&pause=2000&color=3c1053&center=true&vCenter=true&width=450&height=50&lines=%22Let+the+hunt+begin...%22" alt="Rook Quote" />
-
-<img width="45%" alt="twst-twisted-wonderland" src="https://github.com/user-attachments/assets/770ba415-aab8-4a87-bbc2-61d2be565a31" />
+<br />
+    <img width="45%" alt="twst-twisted-wonderland" src="https://github.com/user-attachments/assets/770ba415-aab8-4a87-bbc2-61d2be565a31" />
 
 </div>
 
