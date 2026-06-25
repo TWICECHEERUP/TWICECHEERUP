@@ -3,4 +3,4 @@
     <br /><br />
 crying because im redoing this shit again and again 
 
-[strawp](https://kaleidokun.strawp.page/) [strawp mobile](https://kaleidokunmobile.straw.page/) [ata](https://kaleidokun.atabook.org/) [pronoums](https://pronouns.cc/@KALEIDOKUN)
+[strawp](https://kaleidokun.straw.page/) [strawp mobile](https://kaleidokunmobile.straw.page/) [ata](https://kaleidokun.atabook.org/) [pronoums](https://pronouns.cc/@KALEIDOKUN)
