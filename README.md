@@ -3,4 +3,4 @@
     <br /><br />
 crying because im redoing this shit again and again 
 
-[strawp](https://kaleidokun.straw.page/) [strawp mobile](https://kaleidokunmobile.straw.page/) [ata](https://kaleidokun.atabook.org/) [pronouns](https://pronouns.cc/@KALEIDOKUN) [pinterest](https://pin.it/6wRue376Q)
+[strawp](https://kaleidokun.straw.page/) [strawp mobile](https://kaleidokunmobile.straw.page/) [ata](https://kaleidokun.atabook.org/) [pronouns](https://pronouns.cc/@KALEIDOKUN) [pinterest](https://pin.it/6wRue376Q) [spectrum](https://spectrum.avris.it/i9ww)
