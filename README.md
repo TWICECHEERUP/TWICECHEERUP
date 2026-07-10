@@ -1,6 +1,6 @@
 <div align="center">
     
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+gonna+live+forever;I'm+gonna+learn+how+to+fly+(igh);I+feel+it+coming+together;People+will+see+me+and+cry+(fame)&color=FFD700&color2=8B4513&multiColor=true)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+gonna+live+forever;I'm+gonna+learn+how+to+fly+(high);I+feel+it+coming+together;People+will+see+me+and+cry+(fame)&color=FFD700&color2=8B4513&multiColor=true)](https://git.io/typing-svg)
   <img width="1416" height="240" alt="Banner_Ruggie_%28Cozy_Clothes%29_Showcase" src="https://github.com/user-attachments/assets/f487a80f-14f0-4801-98aa-4848dda9593d" />
   
     
