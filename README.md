@@ -1,13 +1,14 @@
 <div align="center">
-    
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&color=%23ffcade&color2=%23ffcade&lines=ya+dont+you+know+how+sweet+it+tastes;now+that+im+without+you~)](https://git.io/typing-svg)
-  <img width="1416" height="240" alt="Banner_Ruggie_%28Cozy_Clothes%29_Showcase" src="https://github.com/user-attachments/assets/f487a80f-14f0-4801-98aa-4848dda9593d" />
-  
-    
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&color=%23ffcade&color2=%23ffcade&lines=ya+dont+you+know+how+sweet+it+tastes;now+that+im+without+you~" alt="Typing SVG" />
+  </a>
+</div>
+
+<img width="100%" alt="Captura de tela 2026-07-13 194926" src="https://github.com/user-attachments/assets/5231bdc3-caec-4030-b635-c4c430e2eaae" />
+     
 <img width="100%" alt="tumblr_b6bbe4aa0578f0749539bfae80395ff9_57008c67_540" src="https://github.com/user-attachments/assets/278ccef1-fba7-4386-9f93-9de15726b738" />
     <br /><br />
 
-[strawp WORK IN PROCESS](https://leileiarmy.straw.page) [strawp mobile UNAVALIABLE](  ) [ata](https://kaleidokun.atabook.org/) [pronouns](https://pronouns.cc/@KALEIDOKUN) [pinterest](https://pin.it/6wRue376Q) [spectrum](https://spectrum.avris.it/i9ww)
-
-
-![](https://komarev.com/ghpvc/?username=kaleidokun&color=a99ab4)
+[strawp WORK IN PROCESS](https://leileiarmy.straw.page)
