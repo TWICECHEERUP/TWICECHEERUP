@@ -19,4 +19,7 @@
   <img src="https://github.com/user-attachments/assets/e327712a-f43b-4f4a-93e9-3d5662022f33" width="150" />
 </a>
 
+<a href="https://kaleidokun.atabook.org/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/e42bcfde-a6f5-47e4-9f2f-ef3894b875ac" width="150" />
+</a>
 </div>
