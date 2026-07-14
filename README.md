@@ -22,4 +22,9 @@
 <a href="https://kaleidokun.atabook.org/" target="_blank">
   <img src="https://github.com/user-attachments/assets/e42bcfde-a6f5-47e4-9f2f-ef3894b875ac" width="150" />
 </a>
+
+<a href="https://pronouns.cc/@KALEIDOKUN" target="_blank">
+  <img src="https://github.com/user-attachments/assets/e6de992c-5def-4b1b-81f4-0c2b2e70c50d" width="150" />
+</a>
+
 </div>
