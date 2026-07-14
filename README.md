@@ -13,7 +13,7 @@
 <img width="100%" alt="tumblr_b6bbe4aa0578f0749539bfae80395ff9_57008c67_540" src="https://github.com/user-attachments/assets/278ccef1-fba7-4386-9f93-9de15726b738" />
 <br /><br />
 
-[strawp WORK IN PROCESS](https://leileiarmy.straw.page) [ata](https://kaleidokun.atabook.org/) [pronouns](https://pronouns.cc/@KALEIDOKUN) [pinterest](https://pin.it/6wRue376Q) [spectrum](https://spectrum.avris.it/i9ww)
+[ata](https://kaleidokun.atabook.org/) [pronouns](https://pronouns.cc/@KALEIDOKUN) [pinterest](https://pin.it/6wRue376Q) [spectrum](https://spectrum.avris.it/i9ww)
 
 <a href="https://leileiarmy.straw.page" target="_blank">
   <img src="https://github.com/user-attachments/assets/e327712a-f43b-4f4a-93e9-3d5662022f33" width="150" />
