@@ -15,7 +15,7 @@
 
 [strawp WORK IN PROCESS](https://leileiarmy.straw.page) [ata](https://kaleidokun.atabook.org/) [pronouns](https://pronouns.cc/@KALEIDOKUN) [pinterest](https://pin.it/6wRue376Q) [spectrum](https://spectrum.avris.it/i9ww)
 
-<a href="(https://leileiarmy.straw.page)" target="_blank">
+<a href="https://leileiarmy.straw.page" target="_blank">
   <img src="https://github.com/user-attachments/assets/e327712a-f43b-4f4a-93e9-3d5662022f33" width="150" />
 </a>
 
