@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="100%" alt="awongee" src="https://github.com/user-attachments/assets/5ed16a91-89f4-4c54-b925-540c8370d7eb" />
+
+
 <div align="center">
  <div align="center">
   <a href="https://git.io/typing-svg">
