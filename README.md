@@ -18,17 +18,17 @@
 <a href="https://leileiarmy.straw.page" target="_blank">
   <img src="https://github.com/user-attachments/assets/e327712a-f43b-4f4a-93e9-3d5662022f33" width="150" />
 </a>
-
+strawpage
 <a href="https://kaleidokun.atabook.org/" target="_blank">
   <img src="https://github.com/user-attachments/assets/e42bcfde-a6f5-47e4-9f2f-ef3894b875ac" width="150" />
 </a>
-
+atabook
 <a href="https://pronouns.cc/@KALEIDOKUN" target="_blank">
   <img src="https://github.com/user-attachments/assets/e6de992c-5def-4b1b-81f4-0c2b2e70c50d" width="150" />
 </a>
-
+pronouns (old)
 <a href="https://pin.it/1F7tfSpdx" target="_blank">
   <img src="https://github.com/user-attachments/assets/c4968459-98c6-4940-b763-720ab17676d1" width="150" />
 </a>
-
+pinterest
 </div>
