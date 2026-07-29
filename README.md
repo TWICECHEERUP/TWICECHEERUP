@@ -7,7 +7,13 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=500&width=435&color=%23ffcade&color2=%23ffcade&lines=aww+ace+look+cute+here;he+is+my+new+banner+tbh;hope+u+liked" alt="Typing SVG" />
   </a>
-<img width="100%" alt="tumblr_b23b1a592fbd366dd3bf5917a9accb43_8c39f115_1280" src="https://github.com/user-attachments/assets/44787016-0c48-4fd2-a903-ea1687b1bbc3" />
+<a href="<a href="URL_DO_SITE_DESTINO" target="_blank">
+  <img src="URL_DA_SUA_IMAGEM" alt="Texto Alternativo" width="150" />
+</a>
+  
+  
+  
+  <img width="100%" alt="tumblr_b23b1a592fbd366dd3bf5917a9accb43_8c39f115_1280" src="https://github.com/user-attachments/assets/44787016-0c48-4fd2-a903-ea1687b1bbc3" />
 
 </div>
 
