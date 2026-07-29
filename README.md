@@ -7,8 +7,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=500&width=435&color=%23ffcade&color2=%23ffcade&lines=aww+ace+look+cute+here;he+is+my+new+banner+tbh;hope+u+liked" alt="Typing SVG" />
   </a>
-<a href="<a href="URL_DO_SITE_DESTINO" target="_blank">
-  <img src="URL_DA_SUA_IMAGEM" alt="Texto Alternativo" width="150" />
+</div>
+<div align="center">
+  <a href="<a href="https://kaleidokun.straw.page/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/bb456eee-1f43-4750-ae26-98f3dd0d50d8" alt="Texto Alternativo" width="50" />
 </a>
   
   
