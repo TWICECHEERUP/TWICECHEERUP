@@ -9,7 +9,7 @@
   </a>
 </div>
 <div align="center">
-  <a href="<a href="https://kaleidokun.straw.page/" target="_blank">
+  <a href="https://kaleidokun.straw.page/" target="_blank">
   <img src="https://github.com/user-attachments/assets/bb456eee-1f43-4750-ae26-98f3dd0d50d8" alt="Texto Alternativo" width="50" />
 </a>
   
